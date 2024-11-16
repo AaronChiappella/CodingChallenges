@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CodingChallenges
-build_property.ProjectDir = C:\Users\Aaron\Desktop\CodingChallenges\
+build_property.ProjectDir = /home/aaron/Public/CodingChallenges/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

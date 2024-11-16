@@ -41,7 +41,7 @@ word1 and word2 consist of lowercase English letters.
 using System;
 
 
-public class Solution
+public class C1
 {
     public string ConcatenacionAlternada(string word1, string word2)
     {
